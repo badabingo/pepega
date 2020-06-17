@@ -1,2 +1,2 @@
 //This is the Master Branch
-console.log ("EZ CLAP!!\n");
+console.log ("Master EZ CLAP!!\n");
