@@ -1,2 +1,2 @@
 /// COMMENT
-console.log ("EZ CLAP!\n");
+console.log ("EZ CLAP!!\n");
