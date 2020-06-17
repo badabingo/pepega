@@ -1,2 +1,2 @@
 //This is a the Feature Visual branch
-console.log ("EZ CLAP!!\n");
+console.log ("Visual EZ CLAP!!\n");
