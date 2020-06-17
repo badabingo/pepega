@@ -1,3 +1,2 @@
-//This is a feature1 new branch
-//feature_visual branch
+//This is a the Feature Visual branch
 console.log ("EZ CLAP!!\n");
